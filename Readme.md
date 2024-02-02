@@ -45,6 +45,5 @@ Ensure that the tools are installed locally, and configure credentials/secrets a
 
 Feel free to contribute, report issues, or suggest improvements. Create pull requests or open issues for constructive discussions.
 
-**License:** This project is licensed under the [MIT License](LICENSE).
 
 **Author:** [Igor Pereira](https://github.com/Igorpereirag)
